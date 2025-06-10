@@ -11,4 +11,4 @@ We’ll try to stay out of the theoretical weeds in this document, and stick to 
 
 Set up the SCT securely on it’s mount and tilt it toward you so that you can comfortably look straight down into the corrector. The telescope should not point horizontally, or point down.
 
-![Setup camera in front of telescope - looking straight down the tube]Corrector_Plate_Tilt_Up.png
+![Setup camera in front of telescope - looking straight down the tube](Corrector_Plate_Tilt_Up.png)
