@@ -36,3 +36,20 @@ Use the instructions in the following image to center the corrector plate.
 ![Using set screws to center the corrector plate](Corrector_Plate_SET_SCREWS.png)
 
 Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
+
+## Check For The Correct Backfocus
+Backfocus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close is noticeable in your images. 
+The following image is an example of the star pattern caused by a sensor that is too close to the Hyperstar lens. The back focus needs to be increased.
+
+![Example of backfocus too close](Corrector_Plate_SET_SCREWS.png)
+
+This next image is an example of the star pattern caused by a sensor that is too far away from the Hyperstar lens. The back focus needs to be decreased. (Thank you to Helmut Eichler and OPT for the images!)
+
+![Example of backfocus too far](Corrector_Plate_SET_SCREWS.png)
+
+To ensure accurate backfocus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at time of purchase. In other words, if you’ve screwed everything together correctly, and you Zero Out The Hyperstar, the backfocus should be correct. If you’re not entirely sure if you have the right adapter for your configuration, just email Starizona for confirmation.
+
+> [!TIP]
+> Zero Out The Hyperstar before you test for backfocus. Note that you will most likely still need to finely collimate the system.
+
+If you need to increase the distance, either because the native distance needs adjustment – or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter), you can buy M48 (T2) fine-adjustment spacers. Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
