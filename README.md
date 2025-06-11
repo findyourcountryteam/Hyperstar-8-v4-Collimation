@@ -50,7 +50,7 @@ The next image is an example of the star pattern caused by a sensor that is too 
 To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at the time of purchase. In other words, if you’ve screwed everything together correctly, and you Zero Out The Hyperstar, the backfocus should be correct. If you’re not entirely sure if you have the right adapter for your configuration, just email Starizona for confirmation.
 
 > [!TIP]
-> [Zero Out The Hyperstar](#zero_out-the-hyperstar-no-gap)before you test for back focus. You will most likely still need to finely collimate the system using the three pairs of push/pull screws.
+> [Zero Out The Hyperstar](#zero_out-the-hyperstar-no-gap) before you test for back focus. You will most likely still need to finely collimate the system using the three pairs of push/pull screws.
 
 You can buy M48 (T2) fine-adjustment spacers if you need to increase the distance. You might need to do this if the native distance needs adjustment (very unlikely) or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter).  Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
 
