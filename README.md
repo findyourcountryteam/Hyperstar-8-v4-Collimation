@@ -37,7 +37,7 @@ Use the instructions in the following image to center the corrector plate.
 
 Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
 
-## Check For The Correct Back Focus
+## Check For Correct Back Focus
 Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close is noticeable in your images. 
 The following image is an example of the star pattern caused by a sensor that is too close to the Hyperstar lens. The back focus needs to be increased.
 
@@ -50,11 +50,11 @@ The next image is an example of the star pattern caused by a sensor that is too 
 To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at the time of purchase. In other words, if you’ve screwed everything together correctly, and you Zero Out The Hyperstar, the backfocus should be correct. If you’re not entirely sure if you have the right adapter for your configuration, just email Starizona for confirmation.
 
 > [!TIP]
-> Zero Out The Hyperstar before you test for back focus. You will most likely still need to finely collimate the system using the Hyperstar's push/pull screws.
+> [Zero Out The Hyperstar](#zero_out-the-hyperstar-no-gap)before you test for back focus. You will most likely still need to finely collimate the system using the three pairs of push/pull screws.
 
 You can buy M48 (T2) fine-adjustment spacers if you need to increase the distance. You might need to do this if the native distance needs adjustment (very unlikely) or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter).  Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
 
-## Free Yourself From The Fear Of Collimation
+## Free Yourself from the Fear of Collimation
 Feeling dread? 
 
 Take comfort in the idea that collimating Hyperstar is easier than you imagine. It is hard to mess it up beyond repair. Why? The housing of the Hyperstar unit is two optical parts held together by three pairs of push-pull screws. That’s it.
@@ -77,19 +77,19 @@ Begin by **ZERO** ing out the Hyperstar system, so there is no gap between the c
 
 ![Hyperstar housing with no gap](Hyperstar_zeroed.png)
 
-Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** set of screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. Make adjustments using the _tall_ push screw. Use the short pull screw to “lock” your adjustment in place. Practice. The following image gives you a (albeit very exaggerated) view of the effect of adjusting one set of screws has on the relationship between the two parts: you’re intentionally introducing tilt into the system.
+Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** pair of push/pull screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. Make adjustments using the _tall_ push screw. Use the short pull screw to “lock” your adjustment in place. Practice. The following image gives you a (albeit very exaggerated) view of the effect of adjusting one pair of screws has on the relationship between the two parts: you’re intentionally introducing tilt into the system.
 
 ![Hyperstar housing with adjustment](Hyperstar_adjusted.png)
 
 **TEST**.  If the adjustment results in acceptable stars in the corners of your image, then you’re done!
-If your adjustment didn’t move the visual markers in your collimation tool in the right direction, you undo the adjustment you just made. In other words, you return the Hyperstar system to the zeroed-out (“no gap”) configuration. Then, you try again with a different set of screws.
+If your adjustment didn’t move the visual markers in your collimation tool in the right direction, you undo the adjustment you just made. In other words, you return the Hyperstar system to the zeroed-out (“no gap”) configuration. Then, you try again with a different pair of screws.
 Zero, one, test, repeat if necessary.
 
 ![Diagram of Hyperstar collimation workflow](Collimation_workflow.png)
 
 This workflow is important. Using this method, you always stay as close as possible to the proper backfocus (assuming “no gap” is the right backfocus for you). If you don’t, and you continue to make adjustments without zeroing out first, the back focus will incrementally drift, which means that your attempts to get a good collimation will produce incrementally bad results.
 
-## Prepare For Collimation
+## Prepare for Collimation
 
 **To prepare the SCT for collimation**
 1. Remove the dew shield.
@@ -104,7 +104,7 @@ You should now see both the secondary's nearest position to the edge as well as 
 Slide the stick to the nearest adjustment screw and use tiny 1/8th turns to adjust.
 Turn clockwise to move the shadow away from the screw and counter clockwise to move it towards the screw. -->
 
-## Zero Out The Hyperstar (No Gap) 
+## Zero Out the Hyperstar (No Gap) 
 
 **To zero out initial configuration, i.e., start with no gap:**
 1. Tighten short pull screws. 
@@ -114,14 +114,14 @@ Turn clockwise to move the shadow away from the screw and counter clockwise to m
 5. Tighten rotator screws assembly -everything should now be tight with no play.
 6. Loosely snug/tighten the long push screws.
 
-## Adjust One Screw Set
+## Adjust One Push/Pull Screw Pair
 
-**To adjust one screw set:**
+**To adjust one pair of screws:**
 1. Loosen the short pull screw first (won't change positioning).
 2. Tighten the tall push screw to increase the gap by a very small increment. Use tiny 1/8th turns to adjust.
 3. Tighten short pull screw to lock position.
 4. Recenter the bright start in the FOV after the adjustment, and test the optical performance.
-5. If it didn't improve, undo the adjustment you just made, and try a different set of screws, always recentering the bright star in the FOV after each adjustment, before testing optics again.
+5. If it didn't improve, undo the adjustment you just made, and try a different pair of screws, always recentering the bright star in the FOV after each adjustment, before testing optics again.
 6. Repeat the previous two steps until the adjustment results in good performance.
 
 ## Undo the Adjustment
