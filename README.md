@@ -13,9 +13,9 @@ Secure the SCT on its mount and tilt it slightly upward, toward you, so that you
 
 ![Setup camera in front of telescope - looking straight down the tube](Corrector_Plate_Tilt_Up.png)
 
-Set the camera on a tripod 7 ft away, so that it points straight down into the telescope and you can see the dark, concentric rings pattern. Look at the camera’s image and focus, zoom, or whatever is necessary to clearly see the pattern of concentric rings.
+Set the camera on a tripod 7 ft away, so that it points straight down into the telescope and you can see the dark, concentric rings pattern. Look at the camera’s image and focus, zoom, or whatever is necessary to see the pattern of concentric rings.
 
-Here’s an example of a well-centered corrector plate. Note that all circles are perfectly concentric – they are evenly spaced in all directions.
+Here’s an example of a well-centered corrector plate. Note that all circles are perfectly concentric. They are evenly spaced in all directions.
 
 ![Example of concentric pattern](Corrector_Plate_CENTERED.png)
 
@@ -23,13 +23,13 @@ Here is an example of a corrector that is not centered. Notice the uneven spacin
 
 ![Example of non-concentric pattern](Corrector_Plate_OFF_CENTER.png)
 
-Remove screws holding dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place.
-
 You make adjustments to center the corrector plate until it appears optically “on-axis”, and all the circles are a concentric as you can get them.
 
-You don’t center the corrector plate relative to it’s enclosure. In fact, for my corrector plate, to be on-axis, it definitely sits to one side in it’s enclosure.
+You don’t center the corrector plate relative to its enclosure. In fact, for my corrector plate to be on-axis, it sits to one side in its enclosure.
 
-Mark the edge of the corrector plate, and the edge of the corrector plate enclosure (“Orientation Marks” in the following diagram) so that if the corrector plate moves one way or the other in it’s clockwise orientation, you can return to the precise orientation. It’s argued back-and-forth online about whether the clockwise positioning (aka “clocking”) of the corrector plate matters. One camp is convinced that the optics are tested and committed at the factory, and that straying from the factory orientation of the corrector will produce sub-optimal results. The other camp calls it a “corrector” and claims there is no difference. Some claim it’s relevant for older scopes and not the newer ones. I prefer to play it safe, as rediscovering the optimal orientation of the corrector plate is not a task I’m equipped to do, neither financially nor from a time perspective.
+Remove screws holding dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place.
+
+Mark the edge of the corrector plate and the edge of the corrector plate enclosure (“Orientation Marks” in the following diagram) so that if the corrector plate moves one way or the other in its clockwise orientation, you can return to the precise orientation. It’s argued back and forth online about whether the clockwise positioning (aka “clocking”) of the corrector plate matters. One camp is convinced that the optics are tested and committed at the factory, and that straying from the factory orientation of the corrector will produce sub-optimal results. The other camp calls it a “corrector” and claims there is no difference. Some claim it’s relevant for older scopes and not the newer ones. I prefer to play it safe, as rediscovering the optimal orientation of the corrector plate is not a task I’m equipped to do, either financially or from a time perspective.
 
 Use the instructions in the following image to center the corrector plate.
 
@@ -37,24 +37,24 @@ Use the instructions in the following image to center the corrector plate.
 
 Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
 
-## Check For The Correct Backfocus
-Backfocus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close is noticeable in your images. 
+## Check For The Correct Back Focus
+Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close is noticeable in your images. 
 The following image is an example of the star pattern caused by a sensor that is too close to the Hyperstar lens. The back focus needs to be increased.
 
 ![Example of backfocus too close](Camera_sensor_too_close.png)
 
-This next image is an example of the star pattern caused by a sensor that is too far away from the Hyperstar lens. The back focus needs to be decreased. (Thank you to Helmut Eichler and OPT for the images!)
+The next image is an example of the star pattern caused by a sensor that is too far away from the Hyperstar lens. The back focus needs to be decreased. (Thank you to Helmut Eichler and OPT for the images!)
 
 ![Example of backfocus too far](Camera_sensor_too_far.png)
 
-To ensure accurate backfocus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at time of purchase. In other words, if you’ve screwed everything together correctly, and you Zero Out The Hyperstar, the backfocus should be correct. If you’re not entirely sure if you have the right adapter for your configuration, just email Starizona for confirmation.
+To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at the time of purchase. In other words, if you’ve screwed everything together correctly, and you Zero Out The Hyperstar, the backfocus should be correct. If you’re not entirely sure if you have the right adapter for your configuration, just email Starizona for confirmation.
 
 > [!TIP]
-> Zero Out The Hyperstar before you test for backfocus. You will most likely still need to finely collimate the system using the Hyperstar's push/pull screws.
+> Zero Out The Hyperstar before you test for back focus. You will most likely still need to finely collimate the system using the Hyperstar's push/pull screws.
 
-If you need to increase the distance, either because the native distance needs adjustment – or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter), you can buy M48 (T2) fine-adjustment spacers. Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
+You can buy M48 (T2) fine-adjustment spacers if you need to increase the distance. You might need to do this if the native distance needs adjustment (very unlikely) or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter).  Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
 
-## Perform Collimation
+## Free Yourself From The Fear Of Collimation
 Feeling dread? 
 
 Take comfort in the idea that collimating Hyperstar is easier than you imagine. It is hard to mess it up beyond repair. Why? The housing of the Hyperstar unit is two optical parts held together by three pairs of push-pull screws. That’s it.
@@ -71,33 +71,32 @@ Your choice of collimation tool might include:
 - Sharpcap
 
 ### Use the Zero, One, Test Workflow
-This section introduces a specific collimation workflow that is promoted by Starizona.
+Let's promote the collimation workflow that is used by Starizona.
 
-Begin by **ZERO** ing out the Hyperstar system, so that there is no gap between the camera side and the telescope side parts of the housing. 
+Begin by **ZERO** ing out the Hyperstar system, so there is no gap between the camera side and the telescope side parts of the housing. 
 
 ![Hyperstar housing with no gap](Hyperstar_zeroed.png)
 
-Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** set of screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. The following image gives you a (albeit very exaggerated) view of the effect of adjusting one set of screws has on the relationship between the two parts: you’re intentionally introducing tilt into the system.
+Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** set of screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. Make adjustments using the _tall_ push screw. Use the short pull screw to “lock” your adjustment in place. Practice. The following image gives you a (albeit very exaggerated) view of the effect of adjusting one set of screws has on the relationship between the two parts: you’re intentionally introducing tilt into the system.
 
 ![Hyperstar housing with adjustment](Hyperstar_adjusted.png)
 
-**TEST**.  If the adjustment you made results in acceptable stars in the corners of your image, then you’re done!
-If your adjustment didn’t move the visual markers in your collimation tool in the right direction, you undo the adjustment you just made. In other words, you return the Hyperstar system to the zeroed out (“no gap”) configuration. Then, you try again with a different set of screws.
+**TEST**.  If the adjustment results in acceptable stars in the corners of your image, then you’re done!
+If your adjustment didn’t move the visual markers in your collimation tool in the right direction, you undo the adjustment you just made. In other words, you return the Hyperstar system to the zeroed-out (“no gap”) configuration. Then, you try again with a different set of screws.
 Zero, one, test, repeat if necessary.
 
 ![Diagram of Hyperstar collimation workflow](Collimation_workflow.png)
 
-This workflow is important. Using this method, you always stay as close as possible to the proper backfocus (assuming “no gap” is the right backfocus for you). If you don’t, and you continue to make adjustments without zeroing out first, the backfocus will incrementally drift, which means that your attempts to get a good collimation will produce incrementally bad results.
-Make adjustments using the _tall_ push screw. Use the short pull screw to “lock” your adjustment in place. Practice. 
+This workflow is important. Using this method, you always stay as close as possible to the proper backfocus (assuming “no gap” is the right backfocus for you). If you don’t, and you continue to make adjustments without zeroing out first, the back focus will incrementally drift, which means that your attempts to get a good collimation will produce incrementally bad results.
 
 ## Prepare For Collimation
 
 **To prepare the SCT for collimation**
-    1. Remove the dew shield.
-    2. Slew to zenith, as this allows gravity to help you with your adjustments.
-    3. Enable tracking. Alternatively, point to Polaris.
-    4. Focus. Make sure the stars in the center of view are in focus.
-    5. Center a bright start in the FOV.
+1. Remove the dew shield.
+2. Slew to zenith, as this allows gravity to help you with your adjustments.
+3. Enable tracking. Alternatively, point to Polaris.
+4. Focus. Make sure the stars in the center of view are in focus.
+5. Center a bright start in the FOV.
 
 <!--       Test Ed Ting’s “put stick in front of screw”:
 Move the stick so to where the shadow of the secondary is nearest to edge
@@ -108,30 +107,30 @@ Turn clockwise to move the shadow away from the screw and counter clockwise to m
 ## Zero Out The Hyperstar (No Gap) 
 
 **To zero out initial configuration, i.e., start with no gap:**
-    1. Tighten short pull screws. 
-    2. Loosen long push screws. 
-    3. Repeat. 
-    4. Rotate so you can see that the gap is consistent. Repeat 1 and 2 if needed, or until the two parts of the housing sit flush against one another with no gap between them.
-    5. Tighten rotator screws assembly -everything should now be tight with no play.
-    6. Loosely snug/tighten the long push screws.
+1. Tighten short pull screws. 
+2. Loosen long push screws. 
+3. Repeat. 
+4. Rotate so you can see that the gap is consistent. Repeat 1 and 2 if needed, or until the two parts of the housing sit flush against one another with no gap between them.
+5. Tighten rotator screws assembly -everything should now be tight with no play.
+6. Loosely snug/tighten the long push screws.
 
 ## Adjust One Screw Set
 
 **To adjust one screw set:**
-    1. Loosen the short pull screw first (won't change positioning)
-    2. Tighten the tall push screw to increase the gap- very small increment. use tiny 1/8th turns to adjust
-    3. Tighten short pull screw to lock position
-    4. Recenter the bright start in FOV after the adjustment, and test optical performance
-    5. If it didn't improve, undo the adjustment you just made, and try a different set of screws, always recentering the bright star in the FOV after each adjustment, before testing optics again.
-    6. Repeat previous two steps until adjustment results in good performance
+1. Loosen the short pull screw first (won't change positioning).
+2. Tighten the tall push screw to increase the gap by a very small increment. Use tiny 1/8th turns to adjust.
+3. Tighten short pull screw to lock position.
+4. Recenter the bright start in the FOV after the adjustment, and test the optical performance.
+5. If it didn't improve, undo the adjustment you just made, and try a different set of screws, always recentering the bright star in the FOV after each adjustment, before testing optics again.
+6. Repeat the previous two steps until the adjustment results in good performance.
 
 ## Undo the Adjustment
 
 **To undo an adjustment to a pair of screws:**
-    1. Loosen short pull screw; 
-    2. Loosen tall push screw back to where it was; 
-    3. Tighten short pull screw.
-    4. You should now be "zeroed out" again, and ready to try a different pair of screws. 
+1. Loosen short pull screw. 
+2. Loosen tall push screw back to where it was. 
+3. Tighten short pull screw.
+4. You should now be "zeroed out" again, and ready to try a different pair of screws. 
 
 ## Save the Final Collimation
 
@@ -140,7 +139,7 @@ Once the desired optical performance is achieved, double-check that all of the s
 > Snugging down all of short pull screws after collimation is how the Hyperstar system “saves” the configuration. You can use native secondary and the Hyperstar interchangeably, and because of the stationary short pull screws, you shouldn’t need to recollimate the Hyperstar after using the native secondary.
 
 ## Re-Collimate the Hyperstar
-If you need to collimate the Hyperstar again, first zero out the Hyperstar, and then perform collimation.
+If you need to collimate the Hyperstar again, begin by zeroing out the Hyperstar and then performing collimation.
    
 # Resources
 
@@ -175,7 +174,6 @@ Your key to initial fine collimation is that little dot in the center (the Poiss
 Each time you make an adjustment, be sure to put the star in the center of your field of view. Start at 100X and center the Spot. Then go up to about 250X and center the Spot. Now walk it up to 500X or 600X. It will be a bit mushy, but in the steadier moments, you will be able to see and center the Spot. At this level of magnification, make TINY, barely perceptible movements of the collimation screws, or you will chase collimation around and around.
 
 This "step up to 600X method" will get you pretty darn close to perfect collimation. When you get back down to real world observing around 200X-250X, things will be much better and stars will go to a point when you focus, with no flaring as the star comes to a point. As Bob mentioned, you need a night of great seeing to do a final final nailing of the collimation on an in-focus star. But if you wait for a night that steady, it could literally take months depending on your location.
-This post should be pinned so beginners can find it easily. Well written, succinct and illustrated explanation of collimation using a star. Wish I had seen this post when I was first learning to collimate my Classical Cassegrain. 
 Edited by Ihtegla Sar, Today, 03:59 AM.
 
 ## Ed Ting's Instructions
