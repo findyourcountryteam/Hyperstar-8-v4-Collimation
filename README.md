@@ -23,9 +23,9 @@ Here is an example of a corrector that is not centered. Notice the uneven spacin
 
 ![Example of non-concentric pattern](Corrector_Plate_OFF_CENTER.png)
 
-You make adjustments to center the corrector plate until it appears optically “on-axis”, and all the circles are a concentric as you can get them.
+Your adjustments should center the corrector plate until it appears optically “on-axis”, and all the circles are as concentric as you can get them.
 
-You don’t center the corrector plate relative to its enclosure. In fact, for my corrector plate to be on-axis, it sits to one side in its enclosure.
+_You don’t center the corrector plate relative to its enclosure_. For my corrector plate to be on-axis, it sits to one side in its enclosure.
 
 Remove screws holding dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place.
 
@@ -163,6 +163,8 @@ https://youtu.be/QvgtnR2VyDE
 
 https://github.com/insertnamehere1/Bahtinov-Collimator
 
+<!--
+
 ## Defocus on Star
 
 Therein lies the first problem. Lose the donut. If you are defocusing until you see the donut, you are defocusing WAY too far.
@@ -191,6 +193,8 @@ Here's the procedure:
 Ed's Guide 
 
 https://astromart.com/reviews-and-articles/reviews/beginners/show/eds-guide-to-sct-collimation
+
+-->
 
 ## Celestron Instructions
 
