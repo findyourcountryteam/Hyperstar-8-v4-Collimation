@@ -41,11 +41,11 @@ Replace the retainer ring and reattach the three screws. Note that these do not 
 Backfocus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close is noticeable in your images. 
 The following image is an example of the star pattern caused by a sensor that is too close to the Hyperstar lens. The back focus needs to be increased.
 
-![Example of backfocus too close](Corrector_Plate_SET_SCREWS.png)
+![Example of backfocus too close](Camera_sensor_too_close.png)
 
 This next image is an example of the star pattern caused by a sensor that is too far away from the Hyperstar lens. The back focus needs to be decreased. (Thank you to Helmut Eichler and OPT for the images!)
 
-![Example of backfocus too far](Corrector_Plate_SET_SCREWS.png)
+![Example of backfocus too far](Camera_sensor_too_far.png)
 
 To ensure accurate backfocus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at time of purchase. In other words, if you’ve screwed everything together correctly, and you Zero Out The Hyperstar, the backfocus should be correct. If you’re not entirely sure if you have the right adapter for your configuration, just email Starizona for confirmation.
 
