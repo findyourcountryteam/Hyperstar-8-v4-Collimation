@@ -5,7 +5,7 @@ Many users of Starizona’s Hyperstar system manage to configure their image tra
 
 We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know to enjoy the Hyperstar system. Although tolerances within this optical system are measured in microns, proving a recipe for frustration and hair loss, there are elegant methods to set up and collimate the Hyperstar. Anyone owning Hyperstar owes it to themselves to take a few minutes and review the basics and the workflows recommended by its manufacturer, Starizona. It looks daunting at first, but read on, and you’ll see how easy it is.
 
-##"We Are Ready If Our Minds Be So"
+## "We Are Ready If Our Minds Be So"
 
 ### Start with a Centered Corrector Plate
 > [!IMPORTANT]
