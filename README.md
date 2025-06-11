@@ -70,4 +70,22 @@ Your choice of collimation tool might include:
 - NINA’s Abberration Inspector (Hocus Focus plugin)
 - Sharpcap
 
+### Use the Zero, One, Test Workflow
+This section introduces a specific collimation workflow that is promoted by Starizona.
 
+Begin by **ZERO** ing out the Hyperstar system, so that there is no gap between the camera side and the telescope side parts of the housing. 
+
+![Hyperstar housing with no gap](Hyperstar_zeroed.png)
+
+Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** set of screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. The following image gives you a (albeit very exaggerated) view of the effect of adjusting one set of screws has on the relationship between the two parts: you’re intentionally introducing tilt into the system.
+
+![Hyperstar housing with adjustment](Hyperstar_adjusted.png)
+
+**TEST**.  If the adjustment you made results in acceptable stars in the corners of your image, then you’re done!
+If your adjustment didn’t move the visual markers in your collimation tool in the right direction, you undo the adjustment you just made. In other words, you return the Hyperstar system to the zeroed out (“no gap”) configuration. Then, you try again with a different set of screws.
+Zero, one, test, repeat if necessary.
+
+![Diagram of Hyperstar collimation workflow](Collimation_workflow.png)
+
+This workflow is important. Using this method, you always stay as close as possible to the proper backfocus (assuming “no gap” is the right backfocus for you). If you don’t, and you continue to make adjustments without zeroing out first, the backfocus will incrementally drift, which means that your attempts to get a good collimation will produce incrementally bad results.
+Make adjustments using the _tall_ push screw. Use the short pull screw to “lock” your adjustment in place. Practice. 
