@@ -47,7 +47,7 @@ The next image is an example of the star pattern caused by a sensor that is too 
 
 ![Example of backfocus too far](Camera_sensor_too_far.png)
 
-To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at the time of purchase. In other words, if you’ve screwed everything together correctly, and you Zero Out The Hyperstar, the backfocus should be correct. If you’re not entirely sure if you have the right adapter for your configuration, just email Starizona for confirmation.
+To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at the time of purchase. In other words, if you’ve screwed everything together correctly, and you [Zero Out The Hyperstar](#zero-out-the-hyperstar), the backfocus should be correct. If you’re not entirely sure if you have the right adapter for your configuration, just email Starizona for confirmation.
 
 > [!TIP]
 > [Zero Out The Hyperstar](#zero-out-the-hyperstar) before you test for back focus. You will most likely still need to finely collimate the system using the three pairs of push/pull screws.
@@ -73,7 +73,7 @@ Your choice of collimation tool might include:
 ### Use the Zero, One, Test Workflow
 Let's promote the collimation workflow that is used by Starizona.
 
-Begin by **ZERO** ing out the Hyperstar system, so there is no gap between the camera side and the telescope side parts of the housing. 
+Begin by [Zero Out The Hyperstar](#zero-out-the-hyperstar) system, so there is no gap between the camera side and the telescope side parts of the housing. 
 
 ![Hyperstar housing with no gap](Hyperstar_zeroed.png)
 
@@ -139,7 +139,7 @@ Once the desired optical performance is achieved, double-check that all of the s
 > Snugging down all of short pull screws after collimation is how the Hyperstar system “saves” the configuration. You can use native secondary and the Hyperstar interchangeably, and because of the stationary short pull screws, you shouldn’t need to recollimate the Hyperstar after using the native secondary.
 
 ## Re-Collimate the Hyperstar
-If you need to collimate the Hyperstar again, begin by zeroing out the Hyperstar and then performing collimation.
+If you need to collimate the Hyperstar again, begin by [Zero Out The Hyperstar](#zero-out-the-hyperstar) and then performing collimation.
    
 # Resources
 
