@@ -50,6 +50,24 @@ This next image is an example of the star pattern caused by a sensor that is too
 To ensure accurate backfocus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at time of purchase. In other words, if you’ve screwed everything together correctly, and you Zero Out The Hyperstar, the backfocus should be correct. If you’re not entirely sure if you have the right adapter for your configuration, just email Starizona for confirmation.
 
 > [!TIP]
-> Zero Out The Hyperstar before you test for backfocus. Note that you will most likely still need to finely collimate the system.
+> Zero Out The Hyperstar before you test for backfocus. You will most likely still need to finely collimate the system using the Hyperstar's push/pull screws.
 
 If you need to increase the distance, either because the native distance needs adjustment – or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter), you can buy M48 (T2) fine-adjustment spacers. Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
+
+## Perform Collimation
+Feeling dread? 
+
+Take comfort in the idea that collimating Hyperstar is easier than you imagine. It is hard to mess it up beyond repair. Why? The housing of the Hyperstar unit is two optical parts held together by three pairs of push-pull screws. That’s it.
+
+![Hyperstar housing with a gap](Hyperstar_Normal.png)
+
+You turn the screws, increasing or decreasing the small gap between the two optical components to correct for tilt, and to perform fine collimation.
+
+Your choice of collimation tool might include:
+- Metaguide
+- Bahtinov mask
+- Defocussed star
+- NINA’s Abberration Inspector (Hocus Focus plugin)
+- Sharpcap
+
+
