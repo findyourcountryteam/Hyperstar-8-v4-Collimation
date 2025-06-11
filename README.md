@@ -5,7 +5,9 @@ Many users of Starizona’s Hyperstar system manage to configure their image tra
 
 We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know to enjoy the Hyperstar system. Although tolerances within this optical system are measured in microns, proving a recipe for frustration and hair loss, there are elegant methods to set up and collimate the Hyperstar. Anyone owning Hyperstar owes it to themselves to take a few minutes and review the basics and the workflows recommended by its manufacturer, Starizona. It looks daunting at first, but read on, and you’ll see how easy it is.
 
-## Center the Corrector Plate
+##"We Are Ready If Our Minds Be So"
+
+### Start with a Centered Corrector Plate
 > [!IMPORTANT]
 > A corrector plate that is centered (optically “on-axis”) is the foundation for everything else described in this documentation. Without a centered corrector plate, you will not get a flat field or sharp stars in your images. You might even think there’s something wrong with the Hyperstar itself.
 
@@ -37,7 +39,7 @@ Use the instructions in the following image to center the corrector plate.
 
 Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
 
-## Check For Correct Back Focus
+### Check For Correct Back Focus
 Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close is noticeable in your images. 
 The following image is an example of the star pattern caused by a sensor that is too close to the Hyperstar lens. The back focus needs to be increased.
 
@@ -54,7 +56,7 @@ To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperst
 
 You can buy M48 (T2) fine-adjustment spacers if you need to increase the distance. You might need to do this if the native distance needs adjustment (very unlikely) or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter).  Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
 
-## Free Yourself from the Fear of Collimation
+### Free Yourself from the Fear of Collimation
 Feeling dread? 
 
 Take comfort in the idea that collimating Hyperstar is easier than you imagine. It is hard to mess it up beyond repair. Why? The housing of the Hyperstar unit is two optical parts held together by three pairs of push-pull screws. That’s it.
