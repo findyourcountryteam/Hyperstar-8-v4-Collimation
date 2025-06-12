@@ -19,11 +19,12 @@ Set the camera on a tripod 7 ft away, so that it points straight down into the t
 
 Here’s an example of a well-centered corrector plate. Note that all circles are perfectly concentric. They are evenly spaced in all directions.
 
-![Example of concentric pattern](Corrector_Plate_CENTERED.png)
+<img src="Corrector_Plate_CENTERED.png" alt="Example of concentric pattern" width="400"> 
 
 Here is an example of a corrector that is not centered. Take a look at the uneven spacing.
 
-![Example of non-concentric pattern](Corrector_Plate_OFF_CENTER.png)
+<img src="Corrector_Plate_OFF_CENTER.png" alt="Example of non-concentric pattern" width="400"> 
+
 Make adjustments until the corrector plate appears optically “on-axis”, and all the circles are as concentric as you can get them.
 
 _Don’t center the corrector plate relative to its enclosure._ For my corrector plate to be on-axis, it sits to one side in its enclosure.
@@ -143,7 +144,6 @@ Turn clockwise to move the shadow away from the screw and counter clockwise to m
 
 > [!IMPORTANT]
 > After you make each adjustment, you need to recenter the star in the FOV and re-focus BEFORE testing the optical performance. These steps are critical for pinpointing your ideal collimation and for making quick work of collimation.
-
 
 ## Undo an Adjustment
 
