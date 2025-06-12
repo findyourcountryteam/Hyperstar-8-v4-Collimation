@@ -29,20 +29,17 @@ Make adjustments until the corrector plate appears optically “on-axis”, and 
 
 _Don’t center the corrector plate relative to its enclosure._ For my corrector plate to be on-axis, it sits to one side in its enclosure.
 
-Remove screws holding dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place.
-
-Mark the corrector plate's edge and the corrector plate enclosure (see the “Orientation Marks” in the following diagram) so that you can return to the precise orientation if the corrector plate moves one way or the other in its clockwise orientation. It’s argued back and forth online about whether the clockwise positioning (aka “clocking”) of the corrector plate matters. One camp is convinced that the optics are tested and committed at the factory, and that straying from the factory orientation of the corrector will produce sub-optimal results. The other camp calls it a “corrector” and claims there is no difference. Some claim it’s relevant for older scopes and not the newer ones. I prefer to play it safe, as rediscovering the optimal orientation of the corrector plate is not a task I’m equipped to do, either financially or from a time perspective.
-
 <img src="Corrector_Plate_SET_SCREWS.png" alt="Using set screws to center the corrector plate" width="600"> 
 
 **To center the corrector plate:**
-1. If you haven’t already, make a small orientation mark on or near the outer rim of the corrector plate at the 3 o’clock position, and another mark aligned with it on the corrector plate housing.
-2. With the correct, very small hex driver, remove the three outside set screws, located exactly at 12, 4, and 8 o’clock.
-3. Loosen the top (12 o’clock) inside set screw.
-4. Adjust and center the plate with the 4 and 8 o’clock inside set screws. Make sure your orientation marks remain lined up. 
-5. Once the corrector plate it is centered, gently tighten the top inside set screw to “lock” the position of the plate.
-6. Insert and gently tighten all three outside set screws to “lock” the position of all three inside set screws.
-7. Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
+1. Remove screws holding dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place.
+2. If you haven’t already, make a small orientation mark on or near the outer rim of the corrector plate at the 3 o’clock position, and another mark aligned with it on the corrector plate housing. This is so that you can return to the precise orientation if the corrector plate moves one way or the other in its clockwise orientation. See the “Orientation Marks” in the following diagram.
+3. With the correct, very small hex driver, remove the three outside set screws, located exactly at 12, 4, and 8 o’clock.
+4. Loosen the top (12 o’clock) inside set screw.
+5. Adjust and center the plate with the 4 and 8 o’clock inside set screws. Make sure your orientation marks remain lined up. 
+6. Once the corrector plate it is centered, gently tighten the top inside set screw to “lock” the position of the plate.
+7. Insert and gently tighten all three outside set screws to “lock” the position of all three inside set screws.
+8. Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
 
 ### Check For Correct Back Focus
 Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close may be noticeable in your images. 
