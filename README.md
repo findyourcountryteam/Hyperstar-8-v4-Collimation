@@ -85,7 +85,7 @@ Your choice of collimation tool might include:
 - NINA’s Abberration Inspector (Hocus Focus plugin)
 - Sharpcap
 
-Instructions on using any of these tools are beyond the scope of this document. We recommend Metaguide, and then a Tri-Bahtinov mask.
+Instructions on using any of these tools are beyond the scope of this document. We recommend Metaguide (free software), or if you prefer, a Tri-Bahtinov mask.
 
 ### Use the Zero, One, Test Workflow
 Let's promote the collimation workflow that is used by Starizona.
@@ -94,7 +94,7 @@ Begin by [Zero Out The Hyperstar](#zero-out-the-hyperstar) system, so there is n
 
 ![Hyperstar housing with no gap](Hyperstar_zeroed.png)
 
-Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** pair of push/pull screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. Make adjustments using the _tall_ push screw. Use the short pull screw to “lock” your adjustment in place. Practice. The following image gives you a (albeit very exaggerated) view of the effect of adjusting one pair of screws has on the relationship between the two parts: you’re intentionally introducing tilt into the system.
+Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** pair of push/pull screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. Make adjustments using the _tall_ push screw. Use the short pull screw to “lock” your adjustment in place. Practice. The following image gives you a (albeit very exaggerated) view of the effect that adjusting one pair of screws has on the relationship between the two parts: _you’re intentionally introducing tilt into the system_.
 
 ![Hyperstar housing with adjustment](Hyperstar_adjusted.png)
 
@@ -128,7 +128,7 @@ Turn clockwise to move the shadow away from the screw and counter clockwise to m
 2. Loosen long push screws. 
 3. Repeat. 
 4. Rotate so you can see that the gap is consistent. Repeat 1 and 2 if needed, or until the two parts of the housing sit flush against one another with no gap between them.
-5. Tighten rotator screws assembly -everything should now be tight with no play.
+5. Tighten rotator screws -everything should now be tight with no play.
 6. Loosely snug/tighten the long push screws.
 
 ## Adjust One Push/Pull Screw Pair
@@ -137,9 +137,13 @@ Turn clockwise to move the shadow away from the screw and counter clockwise to m
 1. Loosen the short pull screw first (won't change positioning).
 2. Tighten the tall push screw to increase the gap by a very small increment. Use tiny 1/8th turns to adjust.
 3. Tighten short pull screw to lock position.
-4. Recenter the bright start in the FOV after the adjustment, and test the optical performance.
-5. If it didn't improve, undo the adjustment you just made, and try a different pair of screws, always recentering the bright star in the FOV after each adjustment, before testing optics again.
+4. Recenter the bright star in the FOV after the adjustment, focus, and test the optical performance.
+5. If it didn't improve, [undo the adjustment](#undo-an-adjustment) you just made, and try a different pair of screws, always recentering the bright star in the FOV after each adjustment and re-focussing, before testing optics again.
 6. Repeat the previous two steps until the adjustment results in good performance.
+
+> [!IMPORTANT]
+> After you make each adjustment, you need to recenter the star in the FOV and re-focus BEFORE testing the optical performance. These steps are critical for pinpointing your ideal collimation and for making quick work of collimation.
+
 
 ## Undo an Adjustment
 
