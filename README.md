@@ -1,11 +1,11 @@
 # Hyperstar-8-v4-Collimation
-_Hyperstar 8 v4 Initial Set Up and Collimation: Getting a Flat Field and Sharp Stars_
+_Acquire Sharp Stars and a Flat Field with Hyperstar 8 v4_
 
-Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp.
+Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp. Anyone owning a Hyperstar owes it to themselves to take a few minutes and review the basics and the workflows recommended by its manufacturer, Starizona. It looks daunting at first, but read on, and you’ll see how easy it is.
 
-We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know to enjoy the Hyperstar system. Although tolerances within this optical system are measured in microns, proving a recipe for frustration and hair loss, there are elegant methods to set up and collimate the Hyperstar. Anyone owning Hyperstar owes it to themselves to take a few minutes and review the basics and the workflows recommended by its manufacturer, Starizona. It looks daunting at first, but read on, and you’ll see how easy it is.
+We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know _to enjoy the Hyperstar system_. Although tolerances within this optical system are measured in microns, proving a recipe for frustration and hair loss, there are elegant methods to set up and collimate the Hyperstar. 
 
-## "We Are Ready If Our Minds Be So"
+## Hyperstar Essentials
 
 ### Start with a Centered Corrector Plate
 > [!IMPORTANT]
@@ -21,17 +21,16 @@ Here’s an example of a well-centered corrector plate. Note that all circles ar
 
 ![Example of concentric pattern](Corrector_Plate_CENTERED.png)
 
-Here is an example of a corrector that is not centered. Notice the uneven spacing.
+Here is an example of a corrector that is not centered. Take a look at the uneven spacing.
 
 ![Example of non-concentric pattern](Corrector_Plate_OFF_CENTER.png)
+Make adjustments until the corrector plate appears optically “on-axis”, and all the circles are as concentric as you can get them.
 
-Your adjustments should center the corrector plate until it appears optically “on-axis”, and all the circles are as concentric as you can get them.
-
-_You don’t center the corrector plate relative to its enclosure_. For my corrector plate to be on-axis, it sits to one side in its enclosure.
+_Don’t center the corrector plate relative to its enclosure._ For my corrector plate to be on-axis, it sits to one side in its enclosure.
 
 Remove screws holding dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place.
 
-Mark the edge of the corrector plate and the edge of the corrector plate enclosure (“Orientation Marks” in the following diagram) so that if the corrector plate moves one way or the other in its clockwise orientation, you can return to the precise orientation. It’s argued back and forth online about whether the clockwise positioning (aka “clocking”) of the corrector plate matters. One camp is convinced that the optics are tested and committed at the factory, and that straying from the factory orientation of the corrector will produce sub-optimal results. The other camp calls it a “corrector” and claims there is no difference. Some claim it’s relevant for older scopes and not the newer ones. I prefer to play it safe, as rediscovering the optimal orientation of the corrector plate is not a task I’m equipped to do, either financially or from a time perspective.
+Mark the corrector plate's edge and the corrector plate enclosure (see the “Orientation Marks” in the following diagram) so that you can return to the precise orientation if the corrector plate moves one way or the other in its clockwise orientation. It’s argued back and forth online about whether the clockwise positioning (aka “clocking”) of the corrector plate matters. One camp is convinced that the optics are tested and committed at the factory, and that straying from the factory orientation of the corrector will produce sub-optimal results. The other camp calls it a “corrector” and claims there is no difference. Some claim it’s relevant for older scopes and not the newer ones. I prefer to play it safe, as rediscovering the optimal orientation of the corrector plate is not a task I’m equipped to do, either financially or from a time perspective.
 
 Use the instructions in the following image to center the corrector plate.
 
@@ -40,7 +39,11 @@ Use the instructions in the following image to center the corrector plate.
 Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
 
 ### Check For Correct Back Focus
-Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close is noticeable in your images. 
+Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close may be noticeable in your images. 
+
+> [!TIP]
+> [Zero Out The Hyperstar](#zero-out-the-hyperstar) before you test for back focus. You will most likely still need to finely collimate the system using the three pairs of push/pull screws.
+
 The following image is an example of the star pattern caused by a sensor that is too close to the Hyperstar lens. The back focus needs to be increased.
 
 ![Example of backfocus too close](Camera_sensor_too_close.png)
@@ -51,26 +54,30 @@ The next image is an example of the star pattern caused by a sensor that is too 
 
 To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at the time of purchase. In other words, if you’ve screwed everything together correctly, and you [Zero Out The Hyperstar](#zero-out-the-hyperstar), the backfocus should be correct. If you’re not entirely sure if you have the right adapter for your configuration, just email Starizona for confirmation.
 
-> [!TIP]
-> [Zero Out The Hyperstar](#zero-out-the-hyperstar) before you test for back focus. You will most likely still need to finely collimate the system using the three pairs of push/pull screws.
-
-You can buy M48 (T2) fine-adjustment spacers if you need to increase the distance. You might need to do this if the native distance needs adjustment (very unlikely) or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter).  Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
+You can buy M42 (T2) fine-adjustment spacers if you need to increase the distance. The spacer is placed between the camera and the Hyperstar. You might need to do this if the native distance needs adjustment (very unlikely) or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter).  Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
 
 ### Free Yourself from the Fear of Collimation
 Feeling dread? 
 
-Take comfort in the idea that collimating Hyperstar is easier than you imagine. It is hard to mess it up beyond repair. Why? The housing of the Hyperstar unit is two optical parts held together by three pairs of push-pull screws. That’s it.
+Collimating a Hyperstar is easier than you imagine. It is hard to mess it up beyond repair. Why? The housing of the Hyperstar unit is two optical parts held together by three pairs of push-pull screws. That’s it. Just make sure you don't tighten _anything_ too tight.
 
 ![Hyperstar housing with a gap](Hyperstar_Normal.png)
 
-You turn the screws, increasing or decreasing the small gap between the two optical components to correct for tilt, and to perform fine collimation.
+You turn the screws, increasing one side of the gap between the two optical components to correct for tilt, and to perform fine collimation.
+
+#### Learn to Use a Collimation Tool
+How do you know which screws on the Hyperstar to adjust or by how much? 
+
+You use a collimation tool to get precise visual feedback of your progress. All tools that help you collimate a Hyperstar system use your main camera's sensor. You look at images (still, video, or a "live view") of a focussed star that use different methods to indicate in-collimation and out-of-collimation states, and include hints of which pair of push/pull screws to adjust.
 
 Your choice of collimation tool might include:
 - Metaguide
-- Bahtinov mask
+- Tri-Bahtinov mask
 - Defocussed star
 - NINA’s Abberration Inspector (Hocus Focus plugin)
 - Sharpcap
+
+Instructions on using any of these tools are beyond the scope of this document. We recommend Metaguide, and then a Tri-Bahtinov mask.
 
 ### Use the Zero, One, Test Workflow
 Let's promote the collimation workflow that is used by Starizona.
@@ -108,7 +115,7 @@ Turn clockwise to move the shadow away from the screw and counter clockwise to m
 
 ## Zero Out the Hyperstar
 
-**To zero out initial configuration, i.e., start with no gap:**
+**To zero out the initial configuration, i.e., start with no gap:**
 1. Tighten short pull screws. 
 2. Loosen long push screws. 
 3. Repeat. 
@@ -126,7 +133,7 @@ Turn clockwise to move the shadow away from the screw and counter clockwise to m
 5. If it didn't improve, undo the adjustment you just made, and try a different pair of screws, always recentering the bright star in the FOV after each adjustment, before testing optics again.
 6. Repeat the previous two steps until the adjustment results in good performance.
 
-## Undo the Adjustment
+## Undo an Adjustment
 
 **To undo an adjustment to a pair of screws:**
 1. Loosen short pull screw. 
