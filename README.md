@@ -33,11 +33,16 @@ Remove screws holding dew heater or original retaining ring. Note how “loose�
 
 Mark the corrector plate's edge and the corrector plate enclosure (see the “Orientation Marks” in the following diagram) so that you can return to the precise orientation if the corrector plate moves one way or the other in its clockwise orientation. It’s argued back and forth online about whether the clockwise positioning (aka “clocking”) of the corrector plate matters. One camp is convinced that the optics are tested and committed at the factory, and that straying from the factory orientation of the corrector will produce sub-optimal results. The other camp calls it a “corrector” and claims there is no difference. Some claim it’s relevant for older scopes and not the newer ones. I prefer to play it safe, as rediscovering the optimal orientation of the corrector plate is not a task I’m equipped to do, either financially or from a time perspective.
 
-Use the instructions in the following image to center the corrector plate.
+<img src="Corrector_Plate_SET_SCREWS.png" alt="Using set screws to center the corrector plate" width="600"> 
 
-![Using set screws to center the corrector plate](Corrector_Plate_SET_SCREWS.png)
-
-Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
+**To center the corrector plate:**
+1. If you haven’t already, make a small orientation mark on or near the outer rim of the corrector plate at the 3 o’clock position, and another mark aligned with it on the corrector plate housing.
+2. With the correct, very small hex driver, remove the three outside set screws, located exactly at 12, 4, and 8 o’clock.
+3. Loosen the top (12 o’clock) inside set screw.
+4. Adjust and center the plate with the 4 and 8 o’clock inside set screws. Make sure your orientation marks remain lined up. 
+5. Once the corrector plate it is centered, gently tighten the top inside set screw to “lock” the position of the plate.
+6. Insert and gently tighten all three outside set screws to “lock” the position of all three inside set screws.
+7. Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
 
 ### Check For Correct Back Focus
 Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close may be noticeable in your images. 
@@ -62,13 +67,13 @@ Feeling dread?
 
 Collimating a Hyperstar is easier than you imagine. It is hard to mess it up beyond repair. Why? The housing of the Hyperstar unit is two optical parts held together by three pairs of push-pull screws. That’s it. Just make sure you don't tighten _anything_ too tight.
 
-![Hyperstar housing with a gap](Hyperstar_Normal.png)
+<img src="Hyperstar_Normal.png" alt="Hyperstar housing with a gap" width="400"> 
 
 You turn the screws, increasing one side of the gap between the two optical components to correct for tilt, and to perform fine collimation.
 
 This is a handy bit here to memorize:
 
-![Hyperstar housing with screw descriptions](Hyperstar_Screws.png)
+<img src="Hyperstar_Screws.png" alt="Hyperstar housing with screw descriptions" width="600"> 
 
 - **Tall Pull Screws** > Make fine adjustments.
 - **Short Push Screws** > Lock and save your final adjustments.
@@ -93,11 +98,11 @@ Let's promote the collimation workflow that is used by Starizona.
 
 Begin by [Zero Out The Hyperstar](#zero-out-the-hyperstar) system, so there is no gap between the camera side and the telescope side parts of the housing. 
 
-![Hyperstar housing with no gap](Hyperstar_zeroed.png)
+<img src="Hyperstar_zeroed.png" alt="Hyperstar housing with no gap" width="300"> 
 
 Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** pair of push/pull screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. Make adjustments using the _tall_ push screw. Use the short pull screw to “lock” your adjustment in place. Practice. The following image gives you a (albeit very exaggerated) view of the effect that adjusting one pair of screws has on the relationship between the two parts: _you’re intentionally introducing tilt into the system_.
 
-![Hyperstar housing with adjustment](Hyperstar_adjusted.png)
+<img src="Hyperstar_adjusted.png" alt="Hyperstar housing with adjustment" width="300"> 
 
 **TEST**.  If the adjustment results in acceptable stars in the corners of your image, then you’re done!
 If your adjustment didn’t move the visual markers in your collimation tool in the right direction, you undo the adjustment you just made. In other words, you return the Hyperstar system to the zeroed-out (“no gap”) configuration. Then, you try again with a different pair of screws.
