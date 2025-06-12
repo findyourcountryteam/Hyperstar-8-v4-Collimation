@@ -69,9 +69,9 @@ This is a handy bit here to memorize:
 
 ![Hyperstar housing with screw descriptions](Hyperstar_Screws.png)
 
-**Tall Pull Screw** > Make fine adjustments.
-**Short Push Screw** > Lock and save your final adjustments.
-**Rotate Screw** > (not used for collimation) This is the screw with the thick, white bushing. Loosen all three rotate screws slightly to rotate your main camera. Once in place, tighten all three screws.
+- **Tall Pull Screws** > Make fine adjustments.
+- **Short Push Screws** > Lock and save your final adjustments.
+- **Rotate Screws** > (not used for collimation) This are the screws with the thick, white bushing. Loosen all three rotate screws slightly to rotate your main camera. Once in place, tighten all three screws.
 
 #### Learn to Use a Collimation Tool
 How do you know which screws on the Hyperstar to adjust or by how much? 
