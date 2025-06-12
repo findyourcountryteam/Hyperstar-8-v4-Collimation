@@ -41,7 +41,7 @@ _Don’t center the corrector plate relative to its enclosure._ For my corrector
 7. Insert and gently tighten all three outside set screws to “lock” the position of all three inside set screws.
 8. Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
 
-<img src="Retaining_ring.png" alt="Position of the 4 of 6 screws holding the retaining ring in place" width="400"> 
+<img src="Retaining_ring.png" alt="Position of the 4 of 6 screws holding the retaining ring in place" width="600"> 
 
 ### Check For Correct Back Focus
 Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close may be noticeable in your images. 
