@@ -1,65 +1,14 @@
 # Hyperstar-8-v4-Collimation
 _Acquire Sharp Stars and a Flat Field with Hyperstar 8 v4_
 
-Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp. Anyone owning a Hyperstar owes it to themselves to take a few minutes and review the basics and the workflows recommended by its manufacturer, Starizona. It looks daunting at first, but read on, and you’ll see how easy it is.
+Anyone owning a Hyperstar owes it to themselves to take a few minutes and review the basics and workflows recommended by its manufacturer, Starizona. Although tolerances within this optical system are measured in microns, proving a recipe for frustration and hair loss, there are elegant (and inexpensive) methods to collimate the Hyperstar. 
 
-We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know _to enjoy the Hyperstar system_. Although tolerances within this optical system are measured in microns, proving a recipe for frustration and hair loss, there are elegant methods to set up and collimate the Hyperstar. 
+Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp. We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know _to enjoy the Hyperstar system_. 
 
 ## Hyperstar Essentials
+"We are ready if our minds be so." - Shakespeare, Henry V 
 
-### Start with a Centered Corrector Plate
-> [!IMPORTANT]
-> A corrector plate that is centered (optically “on-axis”) is the foundation for everything else described in this documentation. Without a centered corrector plate, you will not get a flat field or sharp stars in your images. You might even think there’s something wrong with the Hyperstar itself.
-
-Secure the SCT on its mount and tilt it slightly upward, toward you, so that you can look straight down into the corrector. The telescope should not point horizontally or down.
-
-![Setup camera in front of telescope - looking straight down the tube](Corrector_Plate_Tilt_Up.png)
-
-Set the camera on a tripod 7 ft away, so that it points straight down into the telescope and you can see the dark, concentric rings pattern. Look at the camera’s image and focus, zoom, or whatever is necessary to see the pattern of concentric rings.
-
-Here’s an example of a well-centered corrector plate. Note that all circles are perfectly concentric. They are evenly spaced in all directions.
-
-<img src="Corrector_Plate_CENTERED.png" alt="Example of concentric pattern" width="400"> 
-
-Here is an example of a corrector that is not centered. Take a look at the uneven spacing.
-
-<img src="Corrector_Plate_OFF_CENTER.png" alt="Example of non-concentric pattern" width="400"> 
-
-Make adjustments until the corrector plate appears optically “on-axis”, and all the circles are as concentric as you can get them.
-
-_Don’t center the corrector plate relative to its enclosure._ For my corrector plate to be on-axis, it sits to one side in its enclosure.
-
-<img src="Corrector_Plate_SET_SCREWS.png" alt="Using set screws to center the corrector plate" width="600"> 
-
-**To center the corrector plate:**
-1. Remove the six small screws holding the dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place. In the image following this instruction, four of the six screws are indicated by small red circles to give you an idea of their position.
-2. If you haven’t already, make a small orientation mark on or near the outer rim of the corrector plate at the 3 o’clock position, and another mark aligned with it on the corrector plate housing. This is so that you can return to the precise orientation if the corrector plate moves one way or the other in its clockwise orientation. See the “Orientation Marks” in the following diagram.
-3. With the correct, very small hex driver, remove the three outside set screws, located exactly at 12, 4, and 8 o’clock.
-4. Loosen the top (12 o’clock) inside set screw.
-5. Adjust and center the plate with the 4 and 8 o’clock inside set screws. Make sure your orientation marks remain lined up. 
-6. Once the corrector plate it is centered, gently tighten the top inside set screw to “lock” the position of the plate.
-7. Insert and gently tighten all three outside set screws to “lock” the position of all three inside set screws.
-8. Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
-
-<img src="Retaining_ring.png" alt="Position of the 4 of 6 screws holding the retaining ring in place" width="600"> 
-
-### Check For Correct Back Focus
-Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close may be noticeable in your images. 
-
-> [!TIP]
-> [Zero Out The Hyperstar](#zero-out-the-hyperstar) before you test for back focus. You will most likely still need to finely collimate the system using the three pairs of push/pull screws.
-
-The following image is an example of the star pattern caused by a sensor that's too close to the Hyperstar lens. The back focus needs to be increased.
-
-![Example of backfocus too close](Camera_sensor_too_close.png)
-
-The next image is an example of the star pattern caused by a sensor that's too far from the Hyperstar lens. The back focus needs to be decreased. (Thank you to Helmut Eichler and OPT for the images!)
-
-![Example of backfocus too far](Camera_sensor_too_far.png)
-
-To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at the time of purchase. In other words, if you’ve screwed everything together correctly, and you [Zero Out The Hyperstar](#zero-out-the-hyperstar), the backfocus should be correct. If you’re unsure that you have the right adapter for your configuration, email Starizona for confirmation.
-
-You can buy M42 (T2) fine-adjustment spacers if you need to increase the distance. The spacer is placed between the camera and the Hyperstar. You might need to do this if the native distance needs adjustment (very unlikely) or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter).  Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
+This section is all about getting you cozy with how Hyperstar works, how to verify that your corrector plate is centered, how to check that you've got the correct backfocus, and best practices for dialing in those fine adjustments.
 
 ### Free Yourself from the Fear of Collimation
 Feeling dread? 
@@ -110,6 +59,61 @@ Zero, one, test, repeat if necessary.
 ![Diagram of Hyperstar collimation workflow](Collimation_workflow.png)
 
 This workflow is important. Using this method, you always stay as close as possible to the proper backfocus (assuming “no gap” is the right backfocus for you). If you don’t, and you continue to make adjustments without zeroing out first, the back focus will incrementally drift, which means that your attempts to get a good collimation will produce incrementally bad results.
+
+
+### Start with a Centered Corrector Plate
+> [!IMPORTANT]
+> A corrector plate that is centered (optically “on-axis”) is the foundation for good collimation and focus with Hyperstar. Without a centered corrector plate, you will not get a flat field or sharp stars in your images. You might even think there’s something wrong with the Hyperstar itself. Stars can look like old-model spacecraft from ancient aliens.
+
+Secure the SCT on its mount and tilt it slightly upward, toward you, so that you can look straight down into the corrector. The telescope should not point horizontally or down.
+
+![Setup camera in front of telescope - looking straight down the tube](Corrector_Plate_Tilt_Up.png)
+
+Set the camera on a tripod 7 ft away, so that it points straight down into the telescope and you can see the dark, concentric rings pattern. Look at the camera’s image and focus, zoom, or whatever is necessary to see the pattern of concentric rings.
+
+Here’s an example of a well-centered corrector plate. Note that all circles are perfectly concentric. They are evenly spaced in all directions.
+
+<img src="Corrector_Plate_CENTERED.png" alt="Example of concentric pattern" width="400"> 
+
+Here is an example of a corrector that is not centered. Take a look at the uneven spacing.
+
+<img src="Corrector_Plate_OFF_CENTER.png" alt="Example of non-concentric pattern" width="400"> 
+
+Make adjustments until the corrector plate appears optically “on-axis”, and all the circles are as concentric as you can get them.
+
+_Don’t center the corrector plate relative to its enclosure._ For my corrector plate to be on-axis, it sits to one side in its enclosure.
+
+**To center the corrector plate:**
+
+<img src="Corrector_Plate_SET_SCREWS.png" alt="Using set screws to center the corrector plate" width="600"> 
+
+1. Remove the six small screws holding the dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place. In the image following this instruction, four of the six screws are indicated by small red circles to give you an idea of their position.
+2. If you haven’t already, make a small orientation mark on or near the outer rim of the corrector plate at the 3 o’clock position, and another mark aligned with it on the corrector plate housing. This is so that you can return to the precise orientation if the corrector plate moves one way or the other in its clockwise orientation. See the “Orientation Marks” in the previous diagram.
+3. With the correct, very small hex driver, remove the three outside set screws, located exactly at 12, 4, and 8 o’clock.
+4. Loosen the top (12 o’clock) inside set screw.
+5. Adjust and center the plate with the 4 and 8 o’clock inside set screws. Make sure your orientation marks remain lined up. 
+6. Once the corrector plate it is centered, gently tighten the top inside set screw to “lock” the position of the plate.
+7. Insert and gently tighten all three outside set screws to “lock” the position of all three inside set screws.
+8. Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
+<img src="Retaining_ring.png" alt="Position of the 4 of 6 screws holding the retaining ring in place" width="600"> 
+
+### Check For Correct Back Focus
+Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close may be noticeable in your images. 
+
+> [!TIP]
+> [Zero Out The Hyperstar](#zero-out-the-hyperstar) before you test for back focus. You will most likely still need to finely collimate the system using the three pairs of push/pull screws.
+
+The following image is an example of the star pattern caused by a sensor that's too close to the Hyperstar lens. The back focus needs to be increased.
+
+![Example of backfocus too close](Camera_sensor_too_close.png)
+
+The next image is an example of the star pattern caused by a sensor that's too far from the Hyperstar lens. The back focus needs to be decreased. (Thank you to Helmut Eichler and OPT for the images!)
+
+![Example of backfocus too far](Camera_sensor_too_far.png)
+
+To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at the time of purchase. In other words, if you’ve screwed everything together correctly, and you [Zero Out The Hyperstar](#zero-out-the-hyperstar), the backfocus should be correct. If you’re unsure that you have the right adapter for your configuration, email Starizona for confirmation.
+
+You can buy M42 (T2) fine-adjustment spacers if you need to increase the distance. The spacer is placed between the camera and the Hyperstar. You might need to do this if the native distance needs adjustment (very unlikely) or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter).  Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
 
 ## Prepare for Collimation
 
