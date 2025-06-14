@@ -6,7 +6,7 @@ Anyone owning a Hyperstar owes it to themselves to take a few minutes and review
 Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp. We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know _to enjoy the Hyperstar system_. 
 
 ## Hyperstar Essentials
-"We are ready if our minds be so." - Shakespeare, Henry V 
+"We are ready if our minds be so." - Shakespeare, _Henry V_ 
 
 This section is all about getting you cozy with how Hyperstar works, how to verify that your corrector plate is centered, how to check that you've got the correct backfocus, and best practices for dialing in those fine adjustments.
 
