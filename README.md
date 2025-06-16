@@ -31,9 +31,9 @@ This is a handy bit here to memorize:
 
 Three foundational conditions must exist _before_ attempting collimation. Do yourself a favor and build upon a solid, square, and level foundation.
 
-1. [Start with a Centered Corrector Plate](#start-with-a-centered-corrector-plate) Without a centered corrector plate, fine collimation will elude you. A very confusing experience.
-2. [Establish the Correct Backfocus](#check-for-correct-back-focus) Without the correct backfocus distance, stars increasingly streak (are elongated) as they get further from the center of view. 
-3. [Zero Out The Hyperstar](#zero-out-the-hyperstar) Use the tool as it was designed. The "shim" method might get you good results, but at the cost of possibly moving away from ideal backfocus.
+1. [Start with a Centered Corrector Plate](#start-with-a-centered-corrector-plate). Without a centered corrector plate, fine collimation will elude you. A very confusing experience.
+2. [Establish the Correct Backfocus](#check-for-correct-back-focus). Without the correct backfocus distance, stars increasingly streak (are elongated) as they get further from the center of view. 
+3. [Zero Out The Hyperstar](#zero-out-the-hyperstar). Use the tool as it was designed. The "shim" method might get you good results, but at the cost of possibly moving away from ideal backfocus.
 
 For performing the collimation itself, use [The Zero-One-Test Workflow](#the-zero-one-test-workflow). This is a simple, strategic plan for achieving good results in short order. Without a plan, you are shooting in the dark (sic).
 
