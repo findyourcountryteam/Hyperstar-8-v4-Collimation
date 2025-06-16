@@ -39,7 +39,7 @@ For performing the collimation itself, use [The Zero-One-Test Workflow](#the-zer
 ### Use a Collimation Tool
 How do you know which screws on the Hyperstar to adjust or by how much? 
 
-You use a collimation tool to get precise visual feedback of your progress. All tools that help you collimate a Hyperstar system use your main camera's sensor. You look at images (still, video, or a "live view") of a focussed star that use different methods to indicate in-collimation and out-of-collimation states, and include hints of which pair of push/pull screws to adjust.
+You use a collimation tool to look at images (still, video, or a "live view") of a focussed star that indicate in-collimation and out-of-collimation states, and include hints of which pair of push/pull screws to adjust. All collimation tools use your main camera's sensor.
 
 Your choice of collimation tool might include:
 - Metaguide
@@ -48,7 +48,7 @@ Your choice of collimation tool might include:
 - NINA’s Abberration Inspector (Hocus Focus plugin)
 - Sharpcap
 
-Instructions on using any of these tools are beyond the scope of this document. We recommend Metaguide (free software), or if you prefer, a Tri-Bahtinov mask.
+Instructions for using any of these tools are beyond the scope of this document. We recommend Metaguide (free software), or if you prefer, a Tri-Bahtinov mask.
 
 ### The Zero-One-Test Workflow
 Let's promote the collimation workflow that Starizona uses.
@@ -78,7 +78,7 @@ Secure the SCT on its mount and tilt it slightly upward, toward you, so that you
 
 ![Setup camera in front of telescope - looking straight down the tube](Corrector_Plate_Tilt_Up.png)
 
-Set the camera on a tripod 7 ft away, so that it points straight down into the telescope and you can see the dark, concentric rings pattern. Look at the camera’s image and focus, zoom, or whatever is necessary to see the pattern of concentric rings.
+Set the camera on a tripod 7 ft away, so that it points straight down into the telescope, and you can see the pattern of dark concentric rings. Look at the camera’s image and focus, zoom, or whatever is necessary to see the pattern of concentric rings.
 
 Here’s an example of a well-centered corrector plate. Note that all circles are perfectly concentric. They are evenly spaced in all directions.
 
@@ -183,60 +183,12 @@ If you need to collimate the Hyperstar again, begin by [Zero Out The Hyperstar](
 
 ## Using Metaguide
 
-https://www.cloudynights.com/topic/888670-please-help-with-hyperstar-collimation/
+Metaguide settings and best demos:
+
+- https://m.youtube.com/watch?v=5NmNgtQ1SIw
+
+- https://youtu.be/QvgtnR2VyDE
 
 Forums:
 
-https://www.smallstarspot.com/
-
-https://www.cloudynights.com/topic/736036-new-website-for-metaguide-collimation-guiding-and-online-apps/
-
-Metaguide settings and best demo:
-
-https://m.youtube.com/watch?v=5NmNgtQ1SIw
-
-https://youtu.be/QvgtnR2VyDE
-
-## Bhatinov Mask Collimation Tool
-
-https://github.com/insertnamehere1/Bahtinov-Collimator
-
-<!--
-
-## Defocus on Star
-
-Therein lies the first problem. Lose the donut. If you are defocusing until you see the donut, you are defocusing WAY too far.
-
-You just want to BARELY defocus until you see a small bullseye with two or three bright rings around it. Kinda looks like this: 
-Defocus.jpg
-Your key to initial fine collimation is that little dot in the center (the Poisson Spot). When your collimation is off, that dot will be slightly off-center.
-
-Each time you make an adjustment, be sure to put the star in the center of your field of view. Start at 100X and center the Spot. Then go up to about 250X and center the Spot. Now walk it up to 500X or 600X. It will be a bit mushy, but in the steadier moments, you will be able to see and center the Spot. At this level of magnification, make TINY, barely perceptible movements of the collimation screws, or you will chase collimation around and around.
-
-This "step up to 600X method" will get you pretty darn close to perfect collimation. When you get back down to real world observing around 200X-250X, things will be much better and stars will go to a point when you focus, with no flaring as the star comes to a point. As Bob mentioned, you need a night of great seeing to do a final final nailing of the collimation on an in-focus star. But if you wait for a night that steady, it could literally take months depending on your location.
-Edited by Ihtegla Sar, Today, 03:59 AM.
-
-## Ed Ting's Instructions
-
-Here's the procedure:
-1-Center a star like Polaris
-2-Turn the focus knob maybe one turn or less to defocus star.
-3-Move the stick so to where the shadow of the secondary is nearest to edge
-4-You should now see both the secondary's nearest position to the edge as well as the sticks shadow (will require clockwise adjustments)
-5-Slide the stick to the nearest adjustment screw and use tiny 1/8th turns to adjust.
-6-Turn clockwise to move the shadow away from the screw and counter clockwise to move it towards the screw.
-7-Recenter the star after every adjustment.
-
-
-Ed's Guide 
-
-https://astromart.com/reviews-and-articles/reviews/beginners/show/eds-guide-to-sct-collimation
-
--->
-
-## Celestron Instructions
-
-Celestron Collimation Blog
-
-https://www.celestron.com/blogs/knowledgebase/sct-edgehd-collimation-guide
-
+- https://www.smallstarspot.com/
