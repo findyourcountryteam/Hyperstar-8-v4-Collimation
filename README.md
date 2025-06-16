@@ -143,6 +143,8 @@ If you need to increase the distance, you can buy M42 (T2) fine-adjustment space
 5. Tighten rotator screws -everything should now be tight with no play.
 6. Loosely snug/tighten the long push screws.
 
+<img src="Hyperstar_Screws.png" alt="Hyperstar housing with screw descriptions" width="600"> 
+
 ## Adjust One Push/Pull Screw Pair
 
 **To adjust one pair of screws:**
