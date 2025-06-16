@@ -1,14 +1,14 @@
 # Hyperstar-8-v4-Collimation
 _Acquire Sharp Stars and a Flat Field with Hyperstar 8 v4_
 
-Anyone owning a Hyperstar owes it to themselves to take a few minutes and review the basics and workflows recommended by its manufacturer, Starizona. Although tolerances within this optical system are measured in microns, proving a recipe for frustration and hair loss, there are elegant (and inexpensive) methods to collimate the Hyperstar. 
+Anyone owning a Hyperstar owes it to themselves to take a few minutes and review the basics and workflows recommended by its manufacturer, Starizona. Although tolerances within this optical system are measured in microns, there are elegant (and inexpensive) methods to collimate the Hyperstar. 
 
-Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp. We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know _to enjoy the Hyperstar system_. 
+Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp. We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know to achieve sharp stars and a flat field with the Hyperstar system. 
 
 ## Hyperstar Essentials
 "We are ready if our minds be so." - Shakespeare, _Henry V_ 
 
-This section is all about getting you cozy with how Hyperstar works, how to verify that your corrector plate is centered, how to check that you've got the correct backfocus, and best practices for dialing in those fine adjustments.
+This section is about getting you cozy with how Hyperstar adjustment works and preparing the foundations for a quick, easy collimation. 
 
 ### Free Yourself from the Fear of Collimation
 Feeling dread? 
@@ -27,6 +27,16 @@ This is a handy bit here to memorize:
 - **Short Push Screws** > Lock and save your final adjustments.
 - **Rotate Screws** > (not used for collimation) This are the screws with the thick, white bushing. Loosen all three rotate screws slightly to rotate your main camera. Once in place, tighten all three screws.
 
+#### The Three Pillars of Hyperstar
+
+Three foundational conditions must exist _before_ attempting collimation. Do yourself a favor and build upon a solid, square, and level foundation.
+
+1. [Start with a Centered Corrector Plate](#start-with-a-centered-corrector-plate) Without a centered corrector plate, fine collimation will elude you. A very confusing experience.
+2. [Establish the Correct Backfocus](#check-for-correct-back-focus) Without the correct backfocus distance, stars increasingly streak (are elongated) as they get further from the center of view. 
+3. [Zero Out The Hyperstar](#zero-out-the-hyperstar) Use the tool as it was designed. The "shim" method might get you good results, but at the cost of possibly moving away from ideal backfocus.
+
+For performing the collimation itself, use [The Zero-One-Test Workflow](#the-zero-one-test-workflow). This is a simple, strategic plan for achieving good results in short order. Without a plan, you are shooting in the dark (sic).
+
 #### Use a Collimation Tool
 How do you know which screws on the Hyperstar to adjust or by how much? 
 
@@ -41,7 +51,7 @@ Your choice of collimation tool might include:
 
 Instructions on using any of these tools are beyond the scope of this document. We recommend Metaguide (free software), or if you prefer, a Tri-Bahtinov mask.
 
-### The Zero - One - Test Workflow
+### The Zero-One-Test Workflow
 Let's promote the collimation workflow that Starizona uses.
 
 Begin by [Zero Out The Hyperstar](#zero-out-the-hyperstar) system, so there is no gap between the camera side and the telescope side parts of the housing. 
@@ -58,7 +68,7 @@ Zero, one, test, repeat if necessary.
 
 ![Diagram of Hyperstar collimation workflow](Collimation_workflow.png)
 
-This workflow is important. Using this method, you always stay as close as possible to the proper backfocus (assuming “no gap” is the right backfocus for you). If you don’t, and you continue to make adjustments without zeroing out first, the back focus will incrementally drift, which means that your attempts to get a good collimation will produce incrementally bad results.
+This workflow is important. Using this method, you always stay as close as possible to the proper backfocus (assuming “no gap” is the right backfocus for you). If you make adjustments without zeroing out first, the back focus will incrementally drift, which means that your attempts to get a good collimation will produce incrementally bad results.
 
 
 ## Start with a Centered Corrector Plate
