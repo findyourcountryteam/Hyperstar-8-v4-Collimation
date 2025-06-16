@@ -27,7 +27,7 @@ This is a handy bit here to memorize:
 - **Short Push Screws** > Lock and save your final adjustments.
 - **Rotate Screws** > (not used for collimation) This are the screws with the thick, white bushing. Loosen all three rotate screws slightly to rotate your main camera. Once in place, tighten all three screws.
 
-#### Learn to Use a Collimation Tool
+#### Use a Collimation Tool
 How do you know which screws on the Hyperstar to adjust or by how much? 
 
 You use a collimation tool to get precise visual feedback of your progress. All tools that help you collimate a Hyperstar system use your main camera's sensor. You look at images (still, video, or a "live view") of a focussed star that use different methods to indicate in-collimation and out-of-collimation states, and include hints of which pair of push/pull screws to adjust.
@@ -35,14 +35,14 @@ You use a collimation tool to get precise visual feedback of your progress. All 
 Your choice of collimation tool might include:
 - Metaguide
 - Tri-Bahtinov mask
-- Defocussed star
+- Defocused star
 - NINA’s Abberration Inspector (Hocus Focus plugin)
 - Sharpcap
 
 Instructions on using any of these tools are beyond the scope of this document. We recommend Metaguide (free software), or if you prefer, a Tri-Bahtinov mask.
 
-### Use the Zero, One, Test Workflow
-Let's promote the collimation workflow that is used by Starizona.
+### The Zero - One - Test Workflow
+Let's promote the collimation workflow that Starizona uses.
 
 Begin by [Zero Out The Hyperstar](#zero-out-the-hyperstar) system, so there is no gap between the camera side and the telescope side parts of the housing. 
 
@@ -61,7 +61,7 @@ Zero, one, test, repeat if necessary.
 This workflow is important. Using this method, you always stay as close as possible to the proper backfocus (assuming “no gap” is the right backfocus for you). If you don’t, and you continue to make adjustments without zeroing out first, the back focus will incrementally drift, which means that your attempts to get a good collimation will produce incrementally bad results.
 
 
-### Start with a Centered Corrector Plate
+## Start with a Centered Corrector Plate
 > [!IMPORTANT]
 > A corrector plate that is centered (optically “on-axis”) is the foundation for good collimation and focus with Hyperstar. Without a centered corrector plate, you will not get a flat field or sharp stars in your images. You might even think there’s something wrong with the Hyperstar itself. Stars can look like old-model spacecraft from ancient aliens.
 
@@ -97,7 +97,7 @@ _Don’t center the corrector plate relative to its enclosure._ For my corrector
 8. Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
 <img src="Retaining_ring.png" alt="Position of the 4 of 6 screws holding the retaining ring in place" width="600"> 
 
-### Check For Correct Back Focus
+## Check For Correct Back Focus
 Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close may be noticeable in your images. 
 
 > [!TIP]
@@ -120,7 +120,7 @@ You can buy M42 (T2) fine-adjustment spacers if you need to increase the distanc
 **To prepare the SCT for collimation:**
 1. Remove the dew shield.
 2. Slew to zenith, as this allows gravity to help you with your adjustments.
-3. Enable tracking. Alternatively, point to Polaris.
+3. Enable tracking. Alternatively, point to Polaris without tracking.
 4. Focus. Make sure the stars in the center of view are in focus.
 5. Center a bright start in the FOV.
 
@@ -144,7 +144,7 @@ Turn clockwise to move the shadow away from the screw and counter clockwise to m
 
 **To adjust one pair of screws:**
 1. Loosen the short pull screw first (won't change positioning).
-2. Tighten the tall push screw to increase the gap by a very small increment. Use tiny 1/8th turns to adjust.
+2. Tighten the tall push screw to increase the gap by a tiny increment. Use 1/8th turns to adjust.
 3. Tighten short pull screw to lock position.
 4. Recenter the bright star in the FOV after the adjustment, focus, and test the optical performance.
 5. If it didn't improve, [undo the adjustment](#undo-an-adjustment) you just made, and try a different pair of screws, always recentering the bright star in the FOV after each adjustment and re-focussing, before testing optics again.
