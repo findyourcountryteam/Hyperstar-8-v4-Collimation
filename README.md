@@ -5,12 +5,11 @@ Anyone owning a Hyperstar owes it to themselves to take a few minutes and review
 
 Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp. We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know to achieve sharp stars and a flat field with the Hyperstar system. 
 
-## Hyperstar Essentials
+## Essentials: Free Yourself from the Fear of Collimation
 "We are ready if our minds be so." - Shakespeare, _Henry V_ 
 
-This section is about getting you cozy with how Hyperstar adjustment works and preparing the foundations for a quick, easy collimation. 
+This section is about getting you cozy with how Hyperstar adjustment works and preparing the foundations for a quick collimation. 
 
-### Free Yourself from the Fear of Collimation
 Feeling dread? 
 
 Collimating a Hyperstar is easier than you imagine. It is hard to mess it up beyond repair. Why? The housing of the Hyperstar unit is two optical parts held together by three pairs of push-pull screws. That’s it. Just make sure you don't tighten _anything_ too tight.
@@ -27,7 +26,7 @@ This is a handy bit here to memorize:
 - **Short Push Screws** > Lock and save your final adjustments.
 - **Rotate Screws** > (not used for collimation) This are the screws with the thick, white bushing. Loosen all three rotate screws slightly to rotate your main camera. Once in place, tighten all three screws.
 
-#### The Three Pillars of Hyperstar
+### The Three Pillars of Hyperstar
 
 Three foundational conditions must exist _before_ attempting collimation. Do yourself a favor and build upon a solid, square, and level foundation.
 
@@ -37,7 +36,7 @@ Three foundational conditions must exist _before_ attempting collimation. Do you
 
 For performing the collimation itself, use [The Zero-One-Test Workflow](#the-zero-one-test-workflow). This is a simple, strategic plan for achieving good results in short order. Without a plan, you are shooting in the dark (sic).
 
-#### Use a Collimation Tool
+### Use a Collimation Tool
 How do you know which screws on the Hyperstar to adjust or by how much? 
 
 You use a collimation tool to get precise visual feedback of your progress. All tools that help you collimate a Hyperstar system use your main camera's sensor. You look at images (still, video, or a "live view") of a focussed star that use different methods to indicate in-collimation and out-of-collimation states, and include hints of which pair of push/pull screws to adjust.
