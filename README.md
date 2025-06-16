@@ -12,7 +12,7 @@ This section is about getting you cozy with how Hyperstar adjustment works and p
 
 Feeling dread? 
 
-Collimating a Hyperstar is easier than you imagine. It is hard to mess it up beyond repair. Why? The housing of the Hyperstar unit is two optical parts held together by three pairs of push-pull screws. That’s it. Just make sure you don't tighten _anything_ too tight.
+Collimating a Hyperstar is easier than you imagine. It is hard to mess it up beyond repair. The housing of the Hyperstar unit is two optical parts held together by three pairs of push-pull screws. That’s it. Just make sure you don't tighten _anything_ too tight.
 
 <img src="Hyperstar_Normal.png" alt="Hyperstar housing with a gap" width="400"> 
 
@@ -30,7 +30,7 @@ This is a handy bit here to memorize:
 
 Three foundational conditions must exist _before_ attempting collimation. Do yourself a favor and build upon a solid, square, and level foundation.
 
-1. [Start with a Centered Corrector Plate](#start-with-a-centered-corrector-plate). Without a centered corrector plate, fine collimation will elude you. A very confusing experience.
+1. [Start with a Centered Corrector Plate](#start-with-a-centered-corrector-plate). Without a centered corrector plate, fine collimation eludes you. A very confusing experience.
 2. [Establish the Correct Backfocus](#check-for-correct-back-focus). Without the correct backfocus distance, stars increasingly streak (are elongated) as they get further from the center of view. 
 3. [Zero Out The Hyperstar](#zero-out-the-hyperstar). Use the tool as it was designed. The "shim" method might get you good results, but at the cost of possibly moving away from ideal backfocus.
 
@@ -57,7 +57,7 @@ Begin by [Zero Out The Hyperstar](#zero-out-the-hyperstar) system, so there is n
 
 <img src="Hyperstar_zeroed.png" alt="Hyperstar housing with no gap" width="300"> 
 
-Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** pair of push/pull screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. Make adjustments using the _tall_ push screw. Use the short pull screw to “lock” your adjustment in place. Practice. The following image gives you a (albeit very exaggerated) view of the effect that adjusting one pair of screws has on the relationship between the two parts: _you’re intentionally introducing tilt into the system_.
+Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** pair of push/pull screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. Practice. The following image gives you a (albeit very exaggerated) view of the effect that adjusting one pair of screws has on the relationship between the two parts: _you’re intentionally introducing tilt into the system_.
 
 <img src="Hyperstar_adjusted.png" alt="Hyperstar housing with adjustment" width="300"> 
 
@@ -67,12 +67,12 @@ Zero, one, test, repeat if necessary.
 
 ![Diagram of Hyperstar collimation workflow](Collimation_workflow.png)
 
-This workflow is important. Using this method, you always stay as close as possible to the proper backfocus (assuming “no gap” is the right backfocus for you). If you make adjustments without zeroing out first, the back focus will incrementally drift, which means that your attempts to get a good collimation will produce incrementally bad results.
+This workflow is important. Using this method, you always stay as close as possible to the proper backfocus (assuming “no gap” is the right backfocus for you). If you make adjustments without zeroing out first, back focus incrementally drifts, which means that even with the best intentions, you get incrementally bad results.
 
 
 ## Start with a Centered Corrector Plate
 > [!IMPORTANT]
-> A corrector plate that is centered (optically “on-axis”) is the foundation for good collimation and focus with Hyperstar. Without a centered corrector plate, you will not get a flat field or sharp stars in your images. You might even think there’s something wrong with the Hyperstar itself. Stars can look like old-model spacecraft from ancient aliens.
+> A corrector plate that is centered (optically “on-axis”) is the foundation for good collimation and focus with Hyperstar. Without a centered corrector plate, you don't get a flat field or sharp stars in your images. You might even think there’s something wrong with the Hyperstar itself. Stars look like old-model spacecraft from ancient aliens.
 
 Secure the SCT on its mount and tilt it slightly upward, toward you, so that you can look straight down into the corrector. The telescope should not point horizontally or down.
 
@@ -99,7 +99,7 @@ _Don’t center the corrector plate relative to its enclosure._ For my corrector
 1. Remove the six small screws holding the dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place. In the image following this instruction, four of the six screws are indicated by small red circles to give you an idea of their position.
 2. If you haven’t already, make a small orientation mark on or near the outer rim of the corrector plate at the 3 o’clock position, and another mark aligned with it on the corrector plate housing. This is so that you can return to the precise orientation if the corrector plate moves one way or the other in its clockwise orientation. See the “Orientation Marks” in the previous diagram.
 3. With the correct, very small hex driver, remove the three outside set screws, located exactly at 12, 4, and 8 o’clock.
-4. Loosen the top (12 o’clock) inside set screw.
+4. Loosen, but don't remove the top (12 o’clock) inside set screw.
 5. Adjust and center the plate with the 4 and 8 o’clock inside set screws. Make sure your orientation marks remain lined up. 
 6. Once the corrector plate it is centered, gently tighten the top inside set screw to “lock” the position of the plate.
 7. Insert and gently tighten all three outside set screws to “lock” the position of all three inside set screws.
@@ -107,10 +107,10 @@ _Don’t center the corrector plate relative to its enclosure._ For my corrector
 <img src="Retaining_ring.png" alt="Position of the 4 of 6 screws holding the retaining ring in place" width="600"> 
 
 ## Check For Correct Back Focus
-Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a very small error of 0.2mm too far or too close may be noticeable in your images. 
+Back focus for a Hyperstar system is critical. This means that the camera sensor must be a precise distance from the Hyperstar lens. Even a tiny error of 0.2mm too far or too close may be noticeable in your images. 
 
 > [!TIP]
-> [Zero Out The Hyperstar](#zero-out-the-hyperstar) before you test for back focus. You will most likely still need to finely collimate the system using the three pairs of push/pull screws.
+> [Zero Out The Hyperstar](#zero-out-the-hyperstar) before you test for back focus. Re-check collimation any time you make a change to the backfocus distance.
 
 The following image is an example of the star pattern caused by a sensor that's too close to the Hyperstar lens. The back focus needs to be increased.
 
@@ -120,9 +120,9 @@ The next image is an example of the star pattern caused by a sensor that's too f
 
 ![Example of backfocus too far](Camera_sensor_too_far.png)
 
-To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at the time of purchase. In other words, if you’ve screwed everything together correctly, and you [Zero Out The Hyperstar](#zero-out-the-hyperstar), the backfocus should be correct. If you’re unsure that you have the right adapter for your configuration, email Starizona for confirmation.
+To ensure accurate back focus, Starizona outfits the Hyperstar v4 or the Hyperstar v4 + (new) Modular Filter Drawer with the correct camera adapter at the time of purchase. In other words, if you screwed everything together correctly, and you [Zero Out The Hyperstar](#zero-out-the-hyperstar), the backfocus should be correct. If you’re unsure that you have the right adapter for your configuration, email Starizona for confirmation.
 
-You can buy M42 (T2) fine-adjustment spacers if you need to increase the distance. The spacer is placed between the camera and the Hyperstar. You might need to do this if the native distance needs adjustment (very unlikely) or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter).  Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
+If you need to increase the distance, you can buy M42 (T2) fine-adjustment spacers. The spacer is placed between the camera and the Hyperstar. You might need to do this if the native distance needs adjustment (very unlikely) or because you’ve added a filter (which increases backfocus by 1/3 the thickness of the filter).  Aluminum is a better material than the plastics available, and getting a set that includes a 0.3mm spacer is good. Very, very small adjustments make a big difference.
 
 ## Prepare for Collimation
 
@@ -132,12 +132,6 @@ You can buy M42 (T2) fine-adjustment spacers if you need to increase the distanc
 3. Enable tracking. Alternatively, point to Polaris without tracking.
 4. Focus. Make sure the stars in the center of view are in focus.
 5. Center a bright start in the FOV.
-
-<!--       Test Ed Ting’s “put stick in front of screw”:
-Move the stick so to where the shadow of the secondary is nearest to edge
-You should now see both the secondary's nearest position to the edge as well as the sticks shadow (will require clockwise adjustments)
-Slide the stick to the nearest adjustment screw and use tiny 1/8th turns to adjust.
-Turn clockwise to move the shadow away from the screw and counter clockwise to move it towards the screw. -->
 
 ## Zero Out the Hyperstar
 
