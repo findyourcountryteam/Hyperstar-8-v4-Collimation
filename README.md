@@ -178,12 +178,15 @@ If you need to collimate the Hyperstar again, begin by [Zero Out The Hyperstar](
 
 ## Using Metaguide
 
-Metaguide settings and best demos:
+Official site and docs:
+- https://smallstarspot.com/metaguide/
+
+Metaguide demos:
 
 - https://m.youtube.com/watch?v=5NmNgtQ1SIw
 
 - https://youtu.be/QvgtnR2VyDE
 
-Forums:
+Forum:
 
 - https://www.smallstarspot.com/
