@@ -1,12 +1,11 @@
 # Hyperstar-8-v4-Collimation
 _Acquire Sharp Stars and a Flat Field with Hyperstar 8 v4_
 
-Anyone owning a Hyperstar owes it to themselves to take a few minutes and review the basics and workflows recommended by its manufacturer, Starizona. Although tolerances within this optical system are measured in microns, there are elegant (and inexpensive) methods to collimate the Hyperstar. 
+There are elegant and inexpensive methods to collimate the Hyperstar, despite its tight tolerances measured in microns.
 
-Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp. We’ll try to stay out of the theoretical weeds in this document and stick to the concepts you need to know to achieve sharp stars and a flat field with the Hyperstar system. 
+Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp. We’ll avoid the theoretical weeds in this document and stick to the concepts you need to know to achieve sharp stars and a flat field with the Hyperstar system. 
 
 ## Essentials: Free Yourself from the Fear of Collimation
-"We are ready if our minds be so." - Shakespeare, _Henry V_ 
 
 This section is about getting you cozy with how Hyperstar adjustment works and preparing the foundations for a quick collimation. 
 
