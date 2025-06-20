@@ -5,9 +5,12 @@ There are elegant and inexpensive methods to collimate the Hyperstar, despite it
 
 Many users of Starizona’s Hyperstar system manage to configure their image trains to get wonderful images. Others don’t have the same experience. This documentation is for the folks in the latter camp, who want to get into the former camp. We’ll avoid the theoretical weeds in this document and stick to the concepts you need to know to achieve sharp stars and a flat field with the Hyperstar system. 
 
+
+**DISCLAIMER:** _The information provided in this document is for educational and informational purposes only. The author assumes no responsibility for any damage, injury, or loss resulting from the use or misuse of the procedures described. Telescope maintenance and adjustments carry inherent risks and should be undertaken only by individuals with appropriate skill and experience. By using this guide, you agree to do so at your own risk._
+
 ## Essentials: Free Yourself from the Fear of Collimation
 
-This section is about getting you cozy with how Hyperstar adjustment works and preparing the foundations for a quick collimation. 
+This section is about getting you cozy with how the Hyperstar adjustment works and preparing the foundations for a quick collimation. 
 
 Feeling dread? 
 
@@ -56,7 +59,7 @@ Begin by [Zero Out The Hyperstar](#zero-out-the-hyperstar) system, so there is n
 
 <img src="Hyperstar_zeroed.png" alt="Hyperstar housing with no gap" width="300"> 
 
-Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** pair of push/pull screws - using 1/8 turn increments with the tall push screw and the neighboring short pull screw to lock in the adjustment. Practice. The following image gives you a (albeit very exaggerated) view of the effect that adjusting one pair of screws has on the relationship between the two parts: _you’re intentionally introducing tilt into the system_.
+Using the guidance and clues provided by your collimation tool (Bahtinov mask, Metaguide, etc.), make adjustments to just **ONE** pair of push/pull screws - using 1/8 to 1/4 turn increments with the tall push screw. Then use the neighboring short pull screw to lock in the adjustment. Practice. The following image gives you a (albeit very exaggerated) view of the effect that adjusting one pair of screws has on the relationship between the two parts: _you’re intentionally introducing tilt into the system_.
 
 <img src="Hyperstar_adjusted.png" alt="Hyperstar housing with adjustment" width="300"> 
 
@@ -71,13 +74,13 @@ This workflow is important. Using this method, you always stay as close as possi
 
 ## Start with a Centered Corrector Plate
 > [!IMPORTANT]
-> A corrector plate that is centered (optically “on-axis”) is the foundation for good collimation and focus with Hyperstar. Without a centered corrector plate, you don't get a flat field or sharp stars in your images. You might even think there’s something wrong with the Hyperstar itself. Stars look like old-model spacecraft from ancient aliens.
+> A corrector plate that is centered (optically “on-axis”) is the foundation for good collimation and focus with Hyperstar. You don't get a flat field or sharp stars in your images without a centered corrector plate. You might even think there’s something wrong with the Hyperstar itself. Stars look like old-model spacecraft from ancient aliens.
 
 Secure the SCT on its mount and tilt it slightly upward, toward you, so that you can look straight down into the corrector. The telescope should not point horizontally or down.
 
 ![Setup camera in front of telescope - looking straight down the tube](Corrector_Plate_Tilt_Up.png)
 
-Set the camera on a tripod 7 ft away, so that it points straight down into the telescope, and you can see the pattern of dark concentric rings. Look at the camera’s image and focus, zoom, or whatever is necessary to see the pattern of concentric rings.
+Set the camera on a tripod seven feet away, so that it points straight down into the telescope, and you can see the pattern of dark concentric rings. Look at the camera’s image and focus, zoom, or whatever is necessary to see the pattern of concentric rings. Seven feet is the correct distance from the 8", 2000mm SCT. Other sizes, like 6", 9.25", 11", and 14", each require a different distance (equal to the native focal length of the SCT).
 
 Here’s an example of a well-centered corrector plate. Note that all circles are perfectly concentric. They are evenly spaced in all directions.
 
@@ -95,14 +98,16 @@ _Don’t center the corrector plate relative to its enclosure._ For my corrector
 
 <img src="Corrector_Plate_SET_SCREWS.png" alt="Using set screws to center the corrector plate" width="600"> 
 
-1. Remove the six small screws holding the dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place. In the image following this instruction, four of the six screws are indicated by small red circles to give you an idea of their position.
-2. If you haven’t already, make a small orientation mark on or near the outer rim of the corrector plate at the 3 o’clock position, and another mark aligned with it on the corrector plate housing. This is so that you can return to the precise orientation if the corrector plate moves one way or the other in its clockwise orientation. See the “Orientation Marks” in the previous diagram.
-3. With the correct, very small hex driver, remove the three outside set screws, located exactly at 12, 4, and 8 o’clock.
-4. Loosen, but don't remove the top (12 o’clock) inside set screw.
-5. Adjust and center the plate with the 4 and 8 o’clock inside set screws. Make sure your orientation marks remain lined up. 
-6. Once the corrector plate it is centered, gently tighten the top inside set screw to “lock” the position of the plate.
-7. Insert and gently tighten all three outside set screws to “lock” the position of all three inside set screws.
-8. Replace the retainer ring and reattach the three screws. Note that these do not need to be tight, but are there to secure the ring in place.
+1. Unscrew and remove the secondary mirror or the Hyperstar from the corrector plate.
+2. Loosen the six small screws holding the dew heater or original retaining ring. Note how “loose” these screws are. They are not tightened down. They are firm enough to hold the retaining ring in place. In the image following this instruction, four of the six screws are indicated by small red circles to give you an idea of their position.
+3. If you haven’t already, make a small orientation mark on or near the outer rim of the corrector plate at the 3 o’clock position, and another mark aligned with it on the corrector plate housing. This is so that you can return to the precise orientation if the corrector plate moves one way or the other in its clockwise orientation. See the “Orientation Marks” in the previous diagram.
+4. With the correct, very small hex driver, remove the three outside set screws, located exactly at 12, 4, and 8 o’clock.
+5. Loosen, but don't remove the top (12 o’clock) inside set screw.
+6. Adjust and center the plate with the 4 and 8 o’clock inside set screws. Make sure your orientation marks remain lined up. 
+7. Once the corrector plate it is centered, gently tighten the top inside set screw to “lock” the position of the plate.
+8. Insert and gently tighten all three outside set screws to “lock” the position of all three inside set screws.
+9. Re-tighten the six screws that secure the retainer ring. Note that these do not need to be tight, but are there to secure the ring in place.
+10. Re-attach the Hyperstar or the secondary mirror to the corrector plate. 
 <img src="Retaining_ring.png" alt="Position of the 4 of 6 screws holding the retaining ring in place" width="600"> 
 
 ## Check For Correct Back Focus
@@ -175,6 +180,19 @@ Once the desired optical performance is achieved, double-check that all of the s
 If you need to collimate the Hyperstar again, begin by [Zero Out The Hyperstar](#zero-out-the-hyperstar) and then performing collimation.
    
 # Resources
+
+## Centering the Corrector Plate
+
+Excellent description of concentric rings.
+http://www.robincasady.com/Astro/collimation/
+
+Update to Celestron Corrector Plate adjustment for Hyperstar
+Describes the old vs new set screws; worth the watch all the way through.
+https://www.youtube.com/watch?v=aVPlf2P4mvI
+
+Adjust Corrector plate for Hyperstar
+Excellent walk-through featuring the old-style screws.
+https://www.youtube.com/watch?v=-W18ccYI9jU&t=27s
 
 ## Using Metaguide
 
